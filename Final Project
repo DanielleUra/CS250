@@ -1,0 +1,72 @@
+//
+Final Project- CHADA TECH
+Danielle Ura
+December 15, 2024
+Southern New Hampshire University
+Professor Dantzler
+
+
+
+
+
+
+
+
+
+Applying Roles
+The success of our project came down to how each Scrum-Agile role contributed, and honestly, balancing this with my full-time job made me appreciate the importance of teamwork even more:
+•	Product Owner: The Product Owner was amazing at keeping the backlog organized and focused on what stakeholders really cared about. During the SNHU Travel project, they made sure user stories like "Search for Flights" and "Manage Bookings" reflected real user needs. Their input helped create a platform that travelers could navigate easily—even after a long day at work, when the last thing you want is a confusing interface (Schwaber & Sutherland, 2020).
+•	Scrum Master: As the Scrum Master, I juggled my day job and this role by keeping us all on track and removing roadblocks. When the team hit a snag with API integration, I set up a knowledge-sharing session during lunch hours. That effort paid off with a stable system that users could trust, which felt like a huge win considering the challenges we faced (Kniberg, 2015).
+•	Development Team: The dev team really pulled through, especially during the payment gateway integration. Watching them collaborate was inspiring—front-end and back-end developers worked together like a well-synced band. Their hard work ensured users had a smooth and secure checkout experience, making our platform feel polished and reliable (Rubin, 2012).
+Each role brought something unique to the table, and it reminded me how important it is to rely on your team when balancing priorities.
+Completing User Stories
+The Scrum-Agile approach was a game changer for getting user stories done, especially when my schedule was tight. Breaking the work into smaller chunks let us focus on one piece at a time, which made everything feel more manageable.
+Take the user story: "As a traveler, I want to search for flights so that I can book a trip conveniently." This story was tackled step by step. In Sprint 1, we built the basic search functionality. By Sprint 2, we added live updates for pricing and availability, making the feature even more useful. It was super satisfying to see the progress we made each sprint, and it gave us time to gather feedback and adjust (Sims & Johnson, 2012).
+We also stuck to a clear Definition of Done (DoD), which kept us accountable. Testing was thorough, and we knew each feature was truly complete before moving on. That level of detail gave me confidence that users would find the platform reliable (Rubin, 2012).
+Handling Interruptions
+Life is full of interruptions, and so was this project. Midway through, stakeholders requested a hotel booking feature—completely unexpected. It felt like being asked to build an extra room on a house after construction had started.
+Here’s how we managed:
+1.	Backlog Refinement: We added the new feature to the backlog and worked with the Product Owner to re-prioritize tasks.
+2.	Sprint Review: We reassessed how the new feature would affect our sprint goals and adjusted accordingly.
+3.	Replanning: The next sprint was focused on integrating hotel bookings without losing momentum on the rest of the project.
+This change added complexity, but in the end, it made the platform more versatile. Travelers could now book flights and hotels in one place, which was a huge win for user convenience (Schwaber & Sutherland, 2020).
+Communication
+Communication was everything, especially since I was balancing this project with a full-time job. Here’s what worked:
+•	Daily Standups: These quick check-ins helped us stay aligned without eating up too much time. For example, when a developer mentioned slow API response times, we jumped on it immediately and fixed the issue. It kept things moving and ensured users wouldn’t have to deal with delays (Kniberg, 2015).
+•	Sprint Reviews: These meetings weren’t just status updates—they were opportunities to get feedback and make improvements. One stakeholder suggested making the flight booking page more visually intuitive, which we implemented. The feedback loop really helped us deliver a user-friendly product (Sims & Johnson, 2012).
+•	Collaboration Tools: Tools like Slack and Jira were lifesavers for staying organized. Jira especially helped us track bugs and progress, making it easier to ensure everything was user-ready by the end of each sprint (Rubin, 2012).
+Balancing work and this project was challenging, but strong communication made everything feel doable.
+Organizational Tools
+The tools and principles we used were like the cheat codes that kept us productive:
+•	Jira: This tool was like a second brain. It helped me keep track of everything—tasks, deadlines, you name it. The Scrum board made it easy to see what needed attention and kept us on schedule (Kniberg, 2015).
+•	Confluence: Confluence was our one-stop shop for documentation. Whether it was technical specs or retrospective notes, everything was in one place. That kind of organization saved time and reduced confusion (Rubin, 2012).
+•	Scrum Events:
+o	Sprint Planning: These sessions were essential for figuring out what we could realistically achieve each sprint, especially with all of us juggling other responsibilities.
+o	Retrospectives: Taking time to reflect after each sprint helped us improve continuously. For instance, we decided to spend more time on user testing, which made the platform more polished and dependable (Schwaber & Sutherland, 2020).
+Evaluating Agile Process
+Pros and Cons of the Scrum-Agile Approach
+•	Pros:
+o	Flexibility: Scrum made it easy to adapt when stakeholders threw curveballs like the hotel booking feature.
+o	Transparency: Everyone knew what was happening thanks to daily updates and open communication.
+o	User-Centric: Feedback loops let us fine-tune the platform based on real needs, which was super rewarding (Kniberg, 2015).
+•	Cons:
+o	Time Management: Balancing Scrum ceremonies with actual development was tough, but we adjusted as needed.
+o	Learning Curve: Getting everyone up to speed on Scrum took some time, but the improved collaboration was worth it (Rubin, 2012).
+Was Scrum-Agile the Best Fit?
+Definitely. Scrum-Agile’s focus on adaptability and user feedback was perfect for the SNHU Travel project. It let us deliver a platform that felt intuitive and reliable while handling unexpected changes with ease. While there were challenges, this process gave us the tools to succeed and helped us create something we could be proud of (Schwaber & Sutherland, 2020).
+
+
+
+
+
+
+References
+	Kniberg, H. (2015). Scrum and XP from the Trenches: How We Do Scrum. C4Media.
+
+	Rubin, K. S. (2012). Essential Scrum: A Practical Guide to the Most Popular Agile Process. Addison-Wesley.
+
+	Schwaber, K., & Sutherland, J. (2020). The Scrum Guide: The Definitive Guide to Scrum: The Rules of the Game. Scrum.org.
+
+	Sims, C., & Johnson, H. L. (2012). Scrum: A Breathtakingly Brief and Agile Introduction. Dymaxicon.
+
+
